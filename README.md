@@ -1,12 +1,8 @@
-# Smart Resume AI Pro
 
-AI resume analyzer for internships!
 
-## 📸 My App Results:
 
-![Pie Chart]
-![Skills List](screenshot 1.png)
-![Languages](screenshot3.png)
 
-Live demo: your-app-link.streamlit.app
+
+
+#HOME PAGE<img width="1392" height="623" alt="Image" src="https://github.com/user-attachments/assets/52c04461-513e-4cc7-b446-8774e5d3359a" />
 
